@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("./images/belly_bacteria.png");
+    background-size: 100% 100%;
+    }
+
+.jumbotron h1{
+    color: #424242;
+    background-color: #C0CA33;
+    }
+    
+.jumbotron p{
+    color: #424242;
+    background-color: #AFB42B;
+    }
