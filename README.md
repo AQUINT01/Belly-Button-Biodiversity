@@ -7,6 +7,8 @@ For this project, we were required to create a dashboard using Javascript to pro
 
 
 
+
+
 ## Results:
 By the end of this project, I was able to:
 
@@ -17,6 +19,7 @@ By the end of this project, I was able to:
 - Used JavaScript's Math library to manipulate numbers.
 - Used event handlers in JavaScript to add interactivity to a data visualization.
 - Applied interactivity to enhance visualizations.
+
 
 
 
