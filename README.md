@@ -20,7 +20,6 @@ By the end of this project, I was able to:
 
 
 
-## DASHBOARD:
+## Dashboard Sample:
 
-Belly Button Biodiversity Dashboard Sample:
 ![bbb](https://github.com/AQUINT01/Belly-Button-Biodiversity/blob/main/static/images/dashboard.png)
